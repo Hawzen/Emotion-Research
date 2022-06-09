@@ -41,13 +41,6 @@ Windows users facing issues installing fasttext can download fasttext binaries f
 | Dart                      | Israa Alsarsour, Esraa Mohamed, Reem Suwaileh, and Tamer Elsayed. DART: A large dataset of dialectal Arabic tweets. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan, May 2018. European Language Resources Association (ELRA).                                                               |
 | extra_data                | Us                                                                                                                                                                                                                                                                                                                                                                     |
 
-### Superviser
+### Research
 
-Dr. Nasser A. AlSadhan
-
-### Researchers
-[Abdulrahman Al-Shawi](https://github.com/d7miiZ) </br>
-[Musaad Al-Qubayl](https://github.com/musaad0) </br>
-[Khaled Al-Bader](https://github.com/khalid-albadr) </br>
-[Abdullah Al-Suwailem](https://github.com/Abdullah-Sw) </br>
-[Mohand Al-Rasheed](https://github.com/Hawzen) </br>
+This research is an extension of [this](https://github.com/d7miiZ/Dialect-Graduation-Project) research
