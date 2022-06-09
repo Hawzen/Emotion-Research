@@ -1,12 +1,8 @@
-1- Set up init (env, commit, push)
-2- Write readme (note about fasttext)
-3- Rewrite test lexicons
-
 # Emotion research
 
 Research about emotions in Arabic dialects
 
-# Notebooks
+## Notebooks
 
 | **Notebook**                               | **Description**                                                                                               | **Notes**                                      |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------|
@@ -15,8 +11,10 @@ Research about emotions in Arabic dialects
 | test_lexicons.ipynb                        | Tests lexicon hand picked by researchers (from find_centroids.ipynb).                                         |                                                |
 | mapping_embeddings_to_other_dialects.ipynb | Attempts to map embeddings cross dialectically                                                                | Is not supported by the environment in env.yml |
 
-# Environment
+## Environment
 
-### fasttext
+Using conda import environment using ```conda env create --file env.yml``` then activate it using ```conda activate emotion_research```
 
-Windows users facing issues installing fasttext can download fasttext binaries from https://www.lfd.uci.edu/~gohlke/pythonlibs/#_fasttext
+##### fasttext
+
+Windows users facing issues installing fasttext can download fasttext binaries from https://www.lfd.uci.edu/~gohlke/pythonlibs/#_fasttext then run ```pip install [WHEEL_FILE]```
