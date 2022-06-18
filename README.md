@@ -9,7 +9,6 @@ Research about emotions in Arabic dialects
 | generate_embeddings.ipynb                  | Trains and saves unsupervised embeddings to _embeddings/_ folder using the SMADC dataset in the _data_ folder |                                                |
 | find_centroids.ipynb                       | Attempts to cluster emotions from embeddings, then generate similar words from each emotion cluster.          | Requires running generate_embeddings.ipynb     |
 | examine_lexicon.ipynb                      | Analyzes lexicon manually obtained in find_centroids.ipynb                                                    |                                                |
-| classify_emotions.ipynb                    | Uses lexicon manually obtained in find_centroids.ipynb to classify emotions into dialects                     |                                                |
 | mapping_embeddings_to_other_dialects.ipynb | Attempts to map embeddings cross dialectically                                                                | Is not supported by the environment in env.yml |
 ## Folders
 
